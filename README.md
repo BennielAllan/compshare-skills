@@ -13,6 +13,10 @@
 
 ![list instances example](./docs/images/example-list-instances.png)
 
+> 帮我关下 uhost-1qv4lgsgmfaa, 已经没什么用了
+
+![stop instance example](./docs/images/example-stop-instance.png)
+
 其他提示词示例：
 
 > CompShare 的 V100S 实例支持哪几种 CPU/内存配置？
@@ -22,8 +26,6 @@
 > 错误码 16005 是什么意思？
 >
 > 在 CompShare 乌兰察布给我开一台 V100S×1、10C/64G 的实例，镜像用 Ubuntu 22.04
->
-> 把 uhost-1qjrm8nqbf1e 关机
 >
 > 销毁 uhost-1qv4lgsgmfaa，磁盘也一起释放
 >
