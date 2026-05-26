@@ -33,8 +33,4 @@
 >
 > 销毁 uhost-1qv4lgsgmfaa，磁盘也一起释放
 >
-> 用 UCloud API 列一下 cn-bj2 的 UHost 主机
->
-> uhost-1qjrm8nqbf1e 这台机器在哪个平台？
->
 > 列一下乌兰察布有哪些 V100S 规格可用
