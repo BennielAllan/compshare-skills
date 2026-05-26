@@ -1,8 +1,6 @@
 # compshare-skills
 
-面向 [**优云智算 CompShare**](https://www.compshare.cn) 平台的 Claude Code / Codex / Cursor skill 集合。
-
-**推荐模型**：`deepseek-v4-flash`
+面向 [**优云智算 CompShare**](https://www.compshare.cn) 平台的 skill 集合。
 
 ## 包含的 skill
 
@@ -12,6 +10,8 @@
 | [`ucloud-api-invoker`](./ucloud-api-invoker) | 通过本地 `invoker.py` 完成 UCloud / CompShare OpenAPI 的签名与 HTTP 调用，profile 路由到 `api.ucloud.cn` 或 `api.compshare.cn`。Action 与参数应来自 `compshare-docs` / `ucloud-api-docs` 的查询结果。 |
 
 ## 使用示例
+
+**推荐模型**：`deepseek-v4-flash`
 
 > 帮我看下优云都开了哪些实例?
 
