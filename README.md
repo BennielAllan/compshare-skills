@@ -1,5 +1,9 @@
 # compshare-skills
 
+面向 [**优云智算 CompShare**](https://www.compshare.cn) 平台的 Claude Code / Codex / Cursor skill 集合。
+
+**推荐模型**：`deepseek-v4-flash`
+
 ## 包含的 skill
 
 | Skill | 用途 |
